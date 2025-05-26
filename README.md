@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
   <a href="https://resonant-starship-b883d7.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&logo=internetexplorer&label=&color=0077cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website logo"  />
+    <img src="https://img.shields.io/static/v1?message=PORTAFOLIO&logo=internetexplorer&label=&color=0077cc&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portafolio logo" />
   </a>
 </div>
 
